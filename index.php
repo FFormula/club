@@ -1,26 +1,4 @@
 <?php
-    chdir ("../../");
-    include "config.php";
-    include "start/class/inc.fn.php";
-    include "start/class/class.sql.php";
-
-    session_start ();
-    if (isset($_GET ["email"])) {
-        $_SESSION ["email"] = $_GET ["email"];
-        echo 'Вы успешно продлили подписку на Формуле программиста. Спасибо!<br/><br/>
-              <a hfre="/start">Два приключения в подарок откроются после нажатия сюда</a>.';
-        echo "<script>
-            alert ('Вы успешно продлили подписку на Формуле программиста. Спасибо!\\n\\nДва приключения в подарок появится после нажатия кнопки.');
-            document.location = '/start';
-              </script>";
-        die();
-    }
-
-    include "start/class/class.funnel.php";
-
-
-    $funnel = new funnel ();
-    $funnel -> accept ("start", 1);
 
 $shots = array (
     array ("slide" => "aa4a4bd601bfa0b77a602cd5cd250071.jpg",
@@ -132,9 +110,9 @@ $shots = array (
     <meta name="description" content="Два бесплатных приключения для программиста. Практическое обучение программированию через создание игровых и прикладных программ.">
 
     <!-- Bootstrap -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/font-awesome.min.css" rel="stylesheet">
-    <link href="../css/landing-style.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/landing-style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
