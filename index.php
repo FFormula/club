@@ -164,14 +164,14 @@ $shots = array (
             <div class="row">
                 <div class="col-xs-6 text-center">
                     <div style="position:relative">
-                        <img class="" alt="" src="/start/images/round-icons/i1.png" style="width: 128px;">
+                        <img class="" alt="" src="http://videosharp.info/start/images/round-icons/i1.png" style="width: 128px;">
                     </div>
                     <h3>Игры</h3><br/>
                     <span class="text-white fz-26">Разобраться <br/>в исходнике игровой <br/>программы</span><br/>
                 </div>
                 <div class="col-xs-6 text-center">
                     <div style="position:relative">
-                        <img class="" alt="" src="/start/images/round-icons/i2.png" style="width: 128px;">
+                        <img class="" alt="" src="http://videosharp.info/start/images/round-icons/i2.png" style="width: 128px;">
                     </div>
                     <h3>Задачи</h3><br/>
                     <span class="text-white fz-26">Решить несколько <br/>интерактивных задач<br/>
@@ -214,7 +214,7 @@ $shots = array (
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4">
-                <img src="/start/images/icons-round/82.png" style="max-width:100%;"/><br/>&nbsp;<br/>
+                <img src="http://videosharp.info/start/images/icons-round/82.png" style="max-width:100%;"/><br/>&nbsp;<br/>
                 <button type="button" class="btn font-text text-white btn-order" data-toggle="modal" data-target="#myModal">
                     Я хочу скачать исходник игровой программы!
                 </button><br/>
@@ -240,7 +240,7 @@ $shots = array (
                 </div>
             </div>
             <div class="col-xs-12 col-sm-4"><br/>
-                <img src="/start/images/icons-round/114.png" style="max-width:100%;"/><br/>&nbsp;<br/>
+                <img src="http://videosharp.info/start/images/icons-round/114.png" style="max-width:100%;"/><br/>&nbsp;<br/>
                 <button type="button" class="btn font-text text-white btn-order" data-toggle="modal" data-target="#myModal">
                     Я хочу решить задачи и стать программистом!
                 </button><br/>
@@ -266,7 +266,7 @@ $shots = array (
                         <span style="color: rgb(255,241,0); font-size: 26px; font-weight: bold;">Кирилл Шмойлов</span>
                         <br/>&nbsp;<br/>
                         <button type="button" class="btn" data-toggle="modal" data-target="#myModal">
-                            <img src="/start/images/e74219c4a9873f8e225df5b546f8c1ba.jpg" class="width-100"/>
+                            <img src="http://videosharp.info/start/images/e74219c4a9873f8e225df5b546f8c1ba.jpg" class="width-100"/>
                         </button><br/>&nbsp;<br/>
                         <div class="display-flex">
                             При разработке моей игры „CounterStrike Sokoban“ я научился:<br/>
@@ -280,7 +280,7 @@ $shots = array (
                         <span style="color: rgb(255,241,0); font-size: 26px; font-weight: bold;">Иван Воронин</span>
                         <br/>&nbsp;<br/>
                         <button type="button" class="btn" data-toggle="modal" data-target="#myModal">
-                            <img src="/start/images/73b3935ff789a4466d912a0879a61658.jpg" class="width-100"/>
+                            <img src="http://videosharp.info/start/images/73b3935ff789a4466d912a0879a61658.jpg" class="width-100"/>
                         </button><br/>&nbsp;<br/>
                         <div class="display-flex">
                             Все алгоритмы были интересные, но особенно: заливка области, спираль, треугольник Серпинского, кривая Гильберта, счастливые билеты N,
@@ -295,7 +295,7 @@ $shots = array (
                         <span style="color: rgb(255,241,0); font-size: 26px; font-weight: bold;">Елена Вставская</span>
                         <br/>&nbsp;<br/>
                         <button type="button" class="btn" data-toggle="modal" data-target="#myModal">
-                            <img src="/start/images/2504ffca0750633a57b0a555c9bc4f59.jpg" class="width-100"/>
+                            <img src="http://videosharp.info/start/images/2504ffca0750633a57b0a555c9bc4f59.jpg" class="width-100"/>
                         </button><br/>&nbsp;<br/>
                         <div class="display-flex">
                             Что мне больше всего понравилось на этом проекте - так это возможность создания игр с нуля и до результата. Это очень интересный процесс :)<br/>&nbsp;<br/>
@@ -329,7 +329,7 @@ $shots = array (
                                 <div>
                                     <div class="screenshot-cover">
                                         <div class="screenshot">
-                                            <img src="/start/images/<?= $data ["slide"] ?>" alt="<?= $data ["text"] ?>"/>
+                                            <img src="http://videosharp.info/start/images/<?= $data ["slide"] ?>" alt="<?= $data ["text"] ?>"/>
                                         </div>
                                     </div>
                                     <div class="text-center"><h3><?= $data ["title"] ?></h3><?= $data ["text"] ?></div>
@@ -379,7 +379,7 @@ $shots = array (
                     <div class="row display-flex flex-wrap">
                         <div class="col-xs-4 text-white">
                             <div style="position:relative">
-                                <img src="/start/images/4b1a8bb22ad1d3a8818dce13c9046ee6.jpg" class = "thumbnail width-100"/>
+                                <img src="http://videosharp.info/start/images/4b1a8bb22ad1d3a8818dce13c9046ee6.jpg" class = "thumbnail width-100"/>
                                 <div style="position:absolute;top:25%;right:-30px; font-size:60px;"><i class="fa fa-caret-left text-white"></i></div>
                             </div>
                             <strong>Владимир Борисенко</strong><br/>25 лет
@@ -399,7 +399,7 @@ $shots = array (
                     <div class="row display-flex flex-wrap">
                         <div class="col-xs-4 text-white">
                             <div style="position:relative">
-                                <img src="/start/images/584bcf8d205dc0dc9750ba517c17b837.jpg" class = "thumbnail width-100"/>
+                                <img src="http://videosharp.info/start/images/584bcf8d205dc0dc9750ba517c17b837.jpg" class = "thumbnail width-100"/>
                                 <div style="position:absolute;top:25%;right:-30px; font-size:60px;"><i class="fa fa-caret-left text-white"></i></div>
                             </div>
                             <strong>Дмитрий Богомолов</strong><br/>39 лет
@@ -421,7 +421,7 @@ $shots = array (
                     <div class="row display-flex flex-wrap">
                         <div class="col-xs-4 text-white">
                             <div style="position:relative">
-                                <img src="/start/images/c14e03390d0c8effe098d6a9f5eea4e6.jpg" class = "thumbnail width-100"/>
+                                <img src="http://videosharp.info/start/images/c14e03390d0c8effe098d6a9f5eea4e6.jpg" class = "thumbnail width-100"/>
                                 <div style="position:absolute;top:25%;right:-30px; font-size:60px;"><i class="fa fa-caret-left text-white"></i></div>
                             </div>
                             <strong>Оля Головина</strong><br/>34 года
@@ -441,7 +441,7 @@ $shots = array (
                     <div class="row display-flex flex-wrap">
                         <div class="col-xs-4 text-white">
                             <div style="position:relative">
-                                <img src="/start/images/b186de8da05deacc276566296b87ba5f.jpg" class = "thumbnail width-100"/>
+                                <img src="http://videosharp.info/start/images/b186de8da05deacc276566296b87ba5f.jpg" class = "thumbnail width-100"/>
                                 <div style="position:absolute;top:25%;right:-30px; font-size:60px;"><i class="fa fa-caret-left text-white"></i></div>
                             </div>
                             <strong>Юрий Морозов</strong><br/>46 лет
@@ -483,7 +483,7 @@ $shots = array (
         <hr/>
         <div class="row">
             <div class="col-xs-4 col-md-2">
-                <img src="/start/images/icons-round/104.png" style="max-width:100%" />
+                <img src="http://videosharp.info/start/images/icons-round/104.png" style="max-width:100%" />
             </div>
             <div class="col-xs-8 col-md-10 text-left">
                 <h3>Обучение на 90% состоит из практики</h3>
@@ -501,13 +501,13 @@ $shots = array (
                 Отличный способ для незаметной прокачки навыков программирования.<br/>&nbsp;<br/>
             </div>
             <div class="col-xs-4 col-md-2">
-                <img src="/start/images/icons-round/16.png" style="max-width:100%" />
+                <img src="http://videosharp.info/start/images/icons-round/16.png" style="max-width:100%" />
             </div>
         </div>
         <hr/>
         <div class="row">
             <div class="col-xs-4 col-md-2">
-                <img src="/start/images/icons-round/51.png" style="max-width:100%" />
+                <img src="http://videosharp.info/start/images/icons-round/51.png" style="max-width:100%" />
             </div>
             <div class="col-xs-8 col-md-10 text-left">
                 <h3>Мгновенная проверка решений</h3>
@@ -525,7 +525,7 @@ $shots = array (
                 Средняя зарплата программиста — <strong>2,000 &euro; в месяц!</strong><br/>&nbsp;<br/>
             </div>
             <div class="col-xs-4 col-md-2">
-                <img src="/start/images/icons-round/122.png" style="max-width:100%" />
+                <img src="http://videosharp.info/start/images/icons-round/122.png" style="max-width:100%" />
             </div>
         </div>
         <hr/>
@@ -553,21 +553,21 @@ $shots = array (
             </div>
             <div class="row text-white display-flex flex-wrap">
                 <div class="col-xs-12 col-sm-4 text-center" style="position:relative">
-                    <img src="/start/images/round-icons/mouse.png" style="width:150px;max-width:70%"/><br/>
+                    <img src="http://videosharp.info/start/images/round-icons/mouse.png" style="width:150px;max-width:70%"/><br/>
                     <div  class='hidden-xs' style="position:absolute;top:15%;right:-15px;"><span class="glyphicon glyphicon-chevron-right text-white" style="font-size:48px;"></span></div>
                     <strong style="font-size:48px">1</strong><br/>
                     Нажать большую<br/>
                     красную кнопку<br/>&nbsp;<br/>
                 </div>
                 <div class="col-xs-12 col-sm-4 text-center" style="position:relative">
-                    <img src="/start/images/round-icons/at.png" style="width:150px;max-width:70%" /><br/>
+                    <img src="http://videosharp.info/start/images/round-icons/at.png" style="width:150px;max-width:70%" /><br/>
                     <div class='hidden-xs' style="position:absolute;top:15%;right:-15px;"><span class="glyphicon glyphicon-chevron-right text-white" style="font-size:48px;"></span></div>
                     <strong style="font-size:48px">2</strong><br/>
                     Ввести свой e-mail<br/>
                     и нажать Enter<br/>&nbsp;<br/>
                 </div>
                 <div class="col-xs-12 col-sm-4 text-center">
-                    <img src="/start/images/round-icons/envelope.png" style="width:150px;max-width:70%" /><br/>
+                    <img src="http://videosharp.info/start/images/round-icons/envelope.png" style="width:150px;max-width:70%" /><br/>
                     <strong style="font-size:48px">3</strong><br/>
                     Получить приключения<br/>
                     на свою же почту<br/>&nbsp;<br/>
@@ -585,6 +585,119 @@ $shots = array (
         </div>
     </div>
 </div>
+<!----price---->
+<div class="col-lg-12" style="text-align: center; padding: 25px;">
+    <h2>ТАРИФЫ НА ДЕЙСТВУЮЩУЮ УСЛУГУ</h2>
+</div>
+<div class="col-lg-12" style="padding-top: 25px ">
+    <div class="row">
+        <div class="col-lg-3 price">
+            <div class="row price-head">
+                <h2>42 дня</h2>
+                <h3>практики программирования</h3>
+            </div>
+            <div class="row price-about">
+                <ul>
+                    <li>3 видеокурса</li>
+                    <li>30 задач</li>
+                    <li>15 часов опыта</li>
+                </ul>
+            </div>
+            <div class="row price-price">
+                <a class="btn btn-danger" href="#">
+                    2000 руб.<br>
+                    <h5>50 руб/день</h5>
+                </a>
+            </div>
+            <div class="row">
+
+            </div>
+            <div class="row">
+
+
+
+            </div>
+        </div> <!---END--->
+        <div class="col-lg-3 price">
+            <div class="row  price-head">
+                <h2>93 дня</h2>
+                <h3>практики программирования</h3>
+            </div>
+            <div class="row  price-about">
+                <ul>
+                    <li>7 видеокурсoв</li>
+                    <li>180 задач</li>
+                    <li>90 часов опыта</li>
+                </ul>
+            </div>
+            <div class="row price-price">
+                <a class="btn btn-danger" href="#">
+                4000 руб.<br>
+                    <h5>45 руб/день </h5>
+                </a>
+            </div>
+            <div class="row">
+
+            </div>
+            <div class="row">
+
+            </div>
+        </div> <!---END--->
+        <div class="col-lg-3 price  price-active">
+            <div class="row price-head">
+                <h2>185 дней</h2>
+                <h3>практики программирования</h3>
+            </div>
+            <div class="row price-about">
+                <ul>
+                    <li>15 видеокурсов</li>
+                    <li>360 задач</li>
+                    <li>180 часов опыта</li>
+                </ul>
+            </div>
+            <div class="row price-price">
+                <a class="btn btn-info" href="#">
+                    7000 руб.<br>
+                    <h5> 39 руб/день</h5>
+                </a>
+            </div>
+            <div class="row" style="color: white">
+                +1024 Байт
+            </div>
+            <div class="row">
+
+            </div>
+        </div> <!---END--->
+        <div class="col-lg-3 price">
+            <div class="row price-head">
+                <h2>370 дней</h2>
+                <h3>практики программирования</h3>
+            </div>
+            <div class="row price-about">
+                <ul>
+                    <li>30 видеокурсов</li>
+                    <li>730 задач</li>
+                    <li>365 часов опыта</li>
+                </ul>
+            </div>
+            <div class="row price-price">
+                <a class="btn btn-danger" href="#">
+                    12000 руб.<br>
+                    <h5>33 руб/день</h5>
+                </a>
+            </div>
+            <div class="row" style="color: white">
+                +2048 Байт
+            </div>
+            <div class="row">
+
+            </div>
+        </div> <!---END--->
+
+    </div>
+</div>
+
+<!----end price-->
 <div class="seventh" id="contacts">
     <div class="container">
         <div class="row">
@@ -594,12 +707,12 @@ $shots = array (
         </div>
         <div class="row text-center text-white">
             <div class="col-xs-5 col-md-3">
-                <img src="/start/images/b0e578848b32d3e70d087e6de9fc8abe.png" style="width:200px;max-width:100%"/><br/>
+                <img src="http://videosharp.info/start/images/b0e578848b32d3e70d087e6de9fc8abe.png" style="width:200px;max-width:100%"/><br/>
                 <strong>Формула</strong> программиста<br/>&nbsp;<br/>
             </div>
             <div class="col-xs-2 visible-xs visible-sm"></div>
             <div class="col-xs-5 visible-xs visible-sm">
-                <img src="/start/images/b41e4c706ed348f900a115454c16a055.png" style="width:200px;max-width:100%"/><br/>
+                <img src="http://videosharp.info/start/images/b41e4c706ed348f900a115454c16a055.png" style="width:200px;max-width:100%"/><br/>
                 Евгений <strong>Волосатов</strong><br/>&nbsp;<br/>
             </div>
             <div class="col-md-6 col-xs-12">
@@ -614,7 +727,7 @@ $shots = array (
                 </button><br/>
             </div>
             <div class="col-md-3 hidden-xs hidden-sm">
-                <img src="/start/images/b41e4c706ed348f900a115454c16a055.png" style="width:200px;max-width:100%"/><br/>
+                <img src="http://videosharp.info/start/images/b41e4c706ed348f900a115454c16a055.png" style="width:200px;max-width:100%"/><br/>
                 Евгений <strong>Волосатов</strong><br/>&nbsp;<br/>
             </div>
         </div>
