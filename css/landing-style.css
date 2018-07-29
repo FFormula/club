@@ -124,7 +124,8 @@ font-size: 20px;
 }
 .price-about li{
     list-style: none;
-    font: 26px bold;
+    font-size: 26px;
+    font-weight: bold;
     color: white;
 }
 

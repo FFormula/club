@@ -588,13 +588,14 @@ $shots = array (
 <!----price---->
 <div class="col-lg-12" style="text-align: center; padding: 25px;">
     <h2>ТАРИФЫ НА ДЕЙСТВУЮЩУЮ УСЛУГУ</h2>
+    <h3>Выберите для себя оптимальное время практики программирования</h3>
 </div>
 <div class="col-lg-12" style="padding-top: 25px ">
     <div class="row">
         <div class="col-lg-3 price">
             <div class="row price-head">
                 <h2>42 дня</h2>
-                <h3>практики программирования</h3>
+                <h3></h3>
             </div>
             <div class="row price-about">
                 <ul>
@@ -621,7 +622,7 @@ $shots = array (
         <div class="col-lg-3 price">
             <div class="row  price-head">
                 <h2>93 дня</h2>
-                <h3>практики программирования</h3>
+                <h3></h3>
             </div>
             <div class="row  price-about">
                 <ul>
@@ -646,7 +647,7 @@ $shots = array (
         <div class="col-lg-3 price  price-active">
             <div class="row price-head">
                 <h2>185 дней</h2>
-                <h3>практики программирования</h3>
+                <h3></h3>
             </div>
             <div class="row price-about">
                 <ul>
@@ -671,7 +672,7 @@ $shots = array (
         <div class="col-lg-3 price">
             <div class="row price-head">
                 <h2>370 дней</h2>
-                <h3>практики программирования</h3>
+                <h3></h3>
             </div>
             <div class="row price-about">
                 <ul>
